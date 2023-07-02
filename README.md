@@ -6,7 +6,7 @@ Installations follow this step
 ```
 $ pkg install python
 $ git clone https://github.com/chal217/molaa
-$ cd MolaTV
+$ cd molaa
 $ pip install -r requirements.txt
 $ python main.py
 ```
